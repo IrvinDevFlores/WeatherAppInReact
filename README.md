@@ -1,1 +1,1 @@
-#Aplicacion del clima para aplicar conceptos de Raact.
+#Aplicacion del clima para aplicar conceptos de React.
